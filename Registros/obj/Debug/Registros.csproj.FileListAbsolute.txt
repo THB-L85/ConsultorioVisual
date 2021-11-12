@@ -1,0 +1,11 @@
+C:\Users\Luis\Documents\repos\Registros\bin\Debug\Registros.exe.config
+C:\Users\Luis\Documents\repos\Registros\bin\Debug\Registros.exe
+C:\Users\Luis\Documents\repos\Registros\bin\Debug\Registros.pdb
+C:\Users\Luis\Documents\repos\Registros\obj\Debug\Registros.Form1.resources
+C:\Users\Luis\Documents\repos\Registros\obj\Debug\Registros.Properties.Resources.resources
+C:\Users\Luis\Documents\repos\Registros\obj\Debug\Registros.csproj.GenerateResource.cache
+C:\Users\Luis\Documents\repos\Registros\obj\Debug\Registros.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Documents\repos\Registros\obj\Debug\Registros.exe
+C:\Users\Luis\Documents\repos\Registros\obj\Debug\Registros.pdb
+C:\Users\Luis\Documents\repos\Registros\obj\Debug\Registros.RegistroDetails.resources
+C:\Users\Luis\Documents\repos\Registros\obj\Debug\Registros.csproj.AssemblyReference.cache
